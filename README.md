@@ -1,7 +1,5 @@
 # Secret Swoop API
 
----
-
 ![Logo](./logo.png)
 
 ## Overview
